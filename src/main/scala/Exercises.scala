@@ -17,8 +17,9 @@ class Exercises {
 
     def triangle(): Unit = {
 
-      val z = 0.5
-      val triangle = x * x * z
+      val z = 0.
+      //added a variable to the formula
+      val triangle = x * y * z
       print("The Area of Tingle is : " + triangle)
     }
 
